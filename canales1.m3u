@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1, Noticias, C5N
+#EXTINF:-1, C5N
 https://youtu.be/jF3jb9JDBr0
 
-#EXTINF:-1, Noticias, TN
+#EXTINF:-1, TN
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
-#EXTINF:-1, Noticias, Cronica HD
+#EXTINF:-1, Cronica HD
 https://www.youtube.com/watch?v=InSydaLSSlw
 
-#EXTINF:-1, Noticias, TVP
+#EXTINF:-1, TVP
 https://www.youtube.com/watch?v=_h2WLcexSeM
 
 #EXTINF:-1, Encuentro
@@ -21,22 +21,22 @@ https://youtu.be/gJSz4U5WrVc
 #EXTINF:-1, DW
 https://youtu.be/RTjbYKBB828
 
-#EXTINF:-1, Noticias, Euronews
+#EXTINF:-1, Euronews
 https://youtu.be/JbKgQhFlMdU
 
-#EXTINF:-1, Noticias, Noticias Caracol
+#EXTINF:-1, Noticias Caracol
 https://youtu.be/Cx5gwduEYo0
 
-#EXTINF:-1, Noticias, TeleSUR
+#EXTINF:-1, TeleSUR
 https://youtu.be/yAjIWVG8QWI
 
-#EXTINF:-1, Noticias, ADN 40
+#EXTINF:-1, ADN 40
 https://youtu.be/k13334_t-hs
 
-#EXTINF:-1, Noticias, Canal 13
+#EXTINF:-1, Canal 13
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/46_.m3u8?token=YIxBK7wGMlJpG66PepV00w&expires=1661465848&ip=45.185.206.14
 
-#EXTINF:-1, Movies, Space
+#EXTINF:-1, Space
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=ETPgqrLauxv1jnxEJ-r3MQ&expires=1661464811&ip=45.185.206.14
 
 #EXTINF:-1, ESPN

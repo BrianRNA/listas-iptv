@@ -1,16 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1, C5N
-https://www.youtube.com/watch?v=jF3jb9JDBr0&feature=emb_logo
+https://youtu.be/jF3jb9JDBr0
 
 #EXTINF:-1, TN
-https://www.youtube.com/watch?v=wHn1_QVoXGM
+https://youtu.be/wHn1_QVoXGM
 
 #EXTINF:-1, Cronica HD
-https://www.youtube.com/watch?v=InSydaLSSlw
+https://youtu.be/InSydaLSSlw
 
 #EXTINF:-1, TVP
-https://www.youtube.com/watch?v=_h2WLcexSeM
+https://youtu.be/_h2WLcexSeM
+
+#EXTINF:-1, TELEFE HD
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
 
 #EXTINF:-1, Encuentro
 https://youtu.be/_bHf3KVyhBs

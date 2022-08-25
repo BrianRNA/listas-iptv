@@ -46,7 +46,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/46_.m3u8?token=YIxBK7wGMlJpG
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=ETPgqrLauxv1jnxEJ-r3MQ&expires=1661464811&ip=45.185.206.14
 
 #EXTINF:-1, ESPN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=WQh2tukO2m99XTns77jjtQ&expires=1661464256&ip=45.185.206.14
+https://dtvott-abc.akamaized.net/dash_live_1104/dash/1104_ESPN_ARGENTINA_HD-audio_72882_spa=72400-79750444986661.dash
 
 #EXTINF:-1, ESPN 2
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/18_.m3u8?token=Ij1QUeLijEM-H-gCDhEUlw&expires=1661464500&ip=45.185.206.14
@@ -135,8 +135,12 @@ https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/track_3_6000/playlist.m3u8
 #EXTINF:-1, HBO 2 
 https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/track_3_6000/playlist.m3u8
 
+#EXTINF:-1, HBO PLUS
+http://23.148.145.49:9001/televall2022/560_.m3u8?token=rkI1vHdGjEabj1bdOKhBDw&expires=1661472208
+
 #EXTINF:-1, STAR CHANNEL
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=g5H522cxFgur7cRfGp2CVA&expires=1661476108&ip=45.185.206.14
 
 #EXTINF:-1, STAR ACTION MEXICO
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/37_.m3u8?token=_eCiSvIcN0x5bl-CebvQzg&expires=1661476193&ip=45.185.206.14
+

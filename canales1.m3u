@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1, Noticias, C5N
+https://youtu.be/jF3jb9JDBr0
+
+#EXTINF:-1, Noticias, TN
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+#EXTINF:-1, Noticias, Cronica HD
+https://www.youtube.com/watch?v=InSydaLSSlw
+
+#EXTINF:-1, Noticias, TVP
+https://www.youtube.com/watch?v=_h2WLcexSeM
+
+#EXTINF:-1, Encuentro
+https://youtu.be/_bHf3KVyhBs
+
+#EXTINF:-1, KZO ENTERTAINMENT
+https://youtu.be/gJSz4U5WrVc
+
+#EXTINF:-1, DW
+https://youtu.be/RTjbYKBB828
+
+#EXTINF:-1, Noticias, Euronews
+https://youtu.be/JbKgQhFlMdU
+
+#EXTINF:-1, Noticias, Noticias Caracol
+https://youtu.be/Cx5gwduEYo0
+
+#EXTINF:-1, Noticias, TeleSUR
+https://youtu.be/yAjIWVG8QWI
+
+#EXTINF:-1, Noticias, ADN 40
+https://youtu.be/k13334_t-hs
+
+#EXTINF:-1, Noticias, Canal 13
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/46_.m3u8?token=YIxBK7wGMlJpG66PepV00w&expires=1661465848&ip=45.185.206.14
+
+#EXTINF:-1, Movies, Space
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=ETPgqrLauxv1jnxEJ-r3MQ&expires=1661464811&ip=45.185.206.14
+
+#EXTINF:-1, ESPN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=WQh2tukO2m99XTns77jjtQ&expires=1661464256&ip=45.185.206.14
+
+#EXTINF:-1, ESPN 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/18_.m3u8?token=Ij1QUeLijEM-H-gCDhEUlw&expires=1661464500&ip=45.185.206.14
+
+#EXTINF:-1, ESPN 3
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/19_.m3u8?token=xTI96b26bH8j2rhTd2h_6g&expires=1661464587&ip=45.185.206.14
+
+#EXTINF:-1, ESPN Deportes
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/15_.m3u8?token=sokTDMZHbVMG9aI2p5vqag&expires=1661464662&ip=45.185.206.14
+
+#EXTINF:-1, ESPN+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/16_.m3u8?token=mXhyUKdCRc03wWEicSEA5w&expires=1661464722&ip=45.185.206.14
+
+#EXTINF:-1, FOX SPORTS PREMIUM
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=pjLeimvkMlrwX-kTttuIuQ&expires=1661465018&ip=45.185.206.14
+
+#EXTINF:-1, FOX SPORT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=jASS4KhTe7F2xDbsDn1MCQ&expires=1661465140&ip=45.185.206.14
+
+#EXTINF:-1, FOX SPORT 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/13_.m3u8?token=jAeV7xG8PrcCexeaATMA1Q&expires=1661465551&ip=45.185.206.14
+
+#EXTINF:-1, FOX SPORT 3
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/14_.m3u8?token=qdURGyoQ8b1KPqAKmobYZA&expires=1661465630&ip=45.185.206.14
+
+#EXTINF:-1, TNT SPORTS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=FSZ1ZrJ7kxIluCznmleF8Q&expires=1661465796&ip=45.185.206.14
+
+#EXTINF:-1, DIRECTV SPORTS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=Kxq3KELnDursoS09gR2mzw&expires=1661465917&ip=45.185.206.14
+
+#EXTINF:-1, TUDN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=2rv4i6iPptJzUqVlmtgZ7A&expires=1661466068&ip=45.185.206.14
+
+#EXTINF:-1, WARNER BROS TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/341_.m3u8?token=qeF3cbNpyS0JDJL4mgX7Yw&expires=1661466185&ip=45.185.206.14
+
+#EXTINF:-1, TNT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=mytPQeSsXcvJfqUQ5qkaKw&expires=1661466240&ip=45.185.206.14
+
+#EXTINF:-1, TNT SERIES
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=fND55Zggvn5PQIetAB7VoA&expires=1661466516&ip=45.185.206.14
+
+#EXTINF:-1, CINECANAL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=5GPOFmcMTmWgrsnvtFSftQ&expires=1661466320&ip=45.185.206.14
+
+#EXTINF:-1, SYFY
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=jv5-9lkjfyf-hKCwWsqSHw&expires=1661466465&ip=45.185.206.14

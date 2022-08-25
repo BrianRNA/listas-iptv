@@ -1,7 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
 #EXTINF:-1, C5N
-https://youtu.be/jF3jb9JDBr0
+https://rr1---sn-npapj5-x1xe.googlevideo.com/videoplayback?expire=1661481189&ei=hdwHY62oH_XK1sQP7f6s-AQ&ip=45.185.206.14&id=jF3jb9JDBr0.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=ir%2C&mh=96&mm=44%2C29&mn=sn-npapj5-x1xe%2Csn-pmcg-bg0d&ms=lva%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=24&initcwndbps=572500&spc=lT-KhmUwtucA2tPujw1shhBycFYj6B8&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=4r5v0oJmInNDYKtZyLVufZUH&gir=yes&mt=1661459318&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&rbqsm=fr&n=zw3eTtNnY_6GPw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAPh7kOu7FEagrREsBjpwEtHJlTtp7xQui4PUUKlB_71tAiEA4gvx6gT7tw7d0_9QptDJHrPqXNl1NeQfPqQBaWWSQMk%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgOHhJFr4QNftqnlFGvhPk0N32FXk_RX1Y57v0AbQi7ZACIQDcGjyL32d4E_xhQwwwqgy9STcFLkvnH5IhJXmTaq6-EQ%3D%3D&alr=yes&cpn=6qq5eYtKjOJ0aewB&cver=1.20220823.01.00&sq=1899951&rn=5&rbuf=1900&pot=Dz8va1NGp7GOPxJqLn43OUyAWhHuQ3c8WhdXvx5yAOtwIF6QVSOOUk81Trpq5EcG6e5mYa080dq8V-EVQAQlsL692Vy6KzZuf256hRB9kicbr67nTxlnKBMSn6XBG_wPct6thSSd_J2Spw==
 
 #EXTINF:-1, TN
 https://youtu.be/wHn1_QVoXGM
@@ -13,7 +16,7 @@ https://youtu.be/InSydaLSSlw
 https://youtu.be/_h2WLcexSeM
 
 #EXTINF:-1, TELEFE HD
-http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/45_.m3u8?token=amhbBh6hC1ZKcm_dgbpeag&expires=1661476380&ip=45.185.206.14
 
 #EXTINF:-1, Encuentro
 https://youtu.be/_bHf3KVyhBs
@@ -75,6 +78,21 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=FSZ1ZrJ7kxIluC
 #EXTINF:-1, DIRECTV SPORTS
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=Kxq3KELnDursoS09gR2mzw&expires=1661465917&ip=45.185.206.14
 
+#EXTINF:-1, MOVISTAR DEPORTES
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=zfTJmQ-UqT3bHRvlGP2bmw&expires=1661471705&ip=45.185.206.14
+
+#EXTINF:-1, AXN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=rXBHf9Db95P4N-Fnz9KIKg&expires=1661471810&ip=45.185.206.14
+
+#EXTINF:-1, UNIVERSAL CHANNEL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=M0RismhZ7cYKQeKA9L6EbA&expires=1661471844&ip=45.185.206.14
+
+#EXTINF:-1, AMC
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=vATseSXntI6YsmFyZG33gw&expires=1661471893&ip=45.185.206.14
+
+#EXTINF:-1, FX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=kIHY-GyqmLCVPm_zeqhdtw&expires=1661471957&ip=45.185.206.14
+
 #EXTINF:-1, TUDN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=2rv4i6iPptJzUqVlmtgZ7A&expires=1661466068&ip=45.185.206.14
 
@@ -92,3 +110,33 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=5GPOFmcMTmWgr
 
 #EXTINF:-1, SYFY
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=jv5-9lkjfyf-hKCwWsqSHw&expires=1661466465&ip=45.185.206.14
+
+#EXTINF:-1, Cartoon Network
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/114_.m3u8?token=_BUrPImYu9ImvJ6MVzbVrg&expires=1661476435&ip=45.185.206.14
+
+#EXTINF:-1, Cartoon Network HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network-avc1_2499968=12.m3u8
+
+#EXTINF:-1, Cartoon Network Live
+https://youtu.be/4x8ZQN5gWSc
+
+#EXTINF:-1, Nick
+https://is-veneto.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick-avc1_5999616=8.m3u8
+
+#EXTINF:-1, CINEMAX
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvgEJHdjmKh7IJoHN0WGJz2xNZywo-ATghI_Y2yiJONFyw2P-u_xRgf5GjFY3zg4AjdDwreMpQWeDWJVf0FYUGy7qbVgNnrWueyRkfNvO6mA8rok4PrnSs_oDfq_dUyUrArZkqy1GJS-ix-C5X8kI7B8-L1FtjZWcm-plje3p3mK7b6H907tJsIEf1uAH2D3kHhPQaHjDHGK9WX44zsGKJ9lfhoycYPF8wkHN84BwC8j2ClHAGtUW7SBEsaNCLXfF5zlOJiwcBA_HcaiYI9wSawF1po-HwNjOxUrK8fKvwmcroqLpR9ZJJpcr0vDe15SxcdLiQGm6x3ZpouAMUxDDShWal6M6IurddvccZetjFXKs_WBC--k_J2HuX3mKIyRjpGB8wvL0zlJj06yIx2J-xfG-7v8ha6WKe4OMOALaN89m5byKxGwCKRN_YAPjXqRjc7rP6d2ajbUPQLaw1ApMGUWhigg8RqtKC9Llf8eEH-BYJ8Y9Fkswoex0QgIe1IDKfZJXyy3OlbhBRVDQmekKt5Vub-71pVtQTpjK0YE1zHHCBANiAmCzpuYsCFhtZ3GqaMaqHW486lVggcvTP7dgUu9ggTljvGdl799X73Hky26tR0HMPDc6hfUmLtaeJyQo1ubDRCdmwHhjY2cxygFPjLyYmudGdg6xBOFE5UlvDaNCz_YDglOllCw0SDzFS7ify-Xn6tfB9J_KHSYM-1-hJRklYG4vnpt9sc3rKALpaSt7OY5yeiKsjQKCX4hVC6WRdR_hJTwJTJHxIW8kjAkhF1eBGtqn-RUp5M3G95KtpZyjw0hAP_dOoxOroWWbMVvpWix-8n6T5glCQwaDJOI32qnp1gmBANPoCABKglldS13ZXN0LTIwwgQ.m3u8
+
+#EXTINF:-1, Star Channel
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvoEJv4-e0KCARBbDaoWR_CX5mDLfkpMb3mXH3K960UF5xORlVka3Qmlmwe8eqZ28chrA9iuG2-EnS88w44SKO_vId5_b6Y5Rcyl4xwJpVNFwVQP83nOGg2OhnkXLjgu40DmnhY6MuJXqDYb1F80IHV8ihnV4U80uE1wPy3_49T6aKHmKxOc_3rZzvoQ5NBqEvSQc_-Hm7QtwEaGITTcjqdfZogCqnGb_LvnYYY3c7SWVXigP4uht4Oa1Ib7ekkBdX_q5Hjye8k1EaMo2D_P1djnTDZPLpcVqfM5mdC3juAj_GW4lrcAhjW20eJ3P7TIRmfz5C5Z5N6KbFEoaBMvb84RMXyLVfp5m_I3TrRjLZrxzOXcVlmGdPBImaTkSsBABY6FgiPFTPQDCUpB8V-Pfj4xqgOyqo5AT1bzMCfG6uduEyCUTMOZW-m7tn8Vyx_Vl5Qce4kT1ZE1BY49D27szt5MIcFc4v-eml_ug19KDA1ieKDy5Qo7UtDvK84YyWHV86kx77pYojw_45Um6oxtfpvsN8s7_AMD1FNmwdj0tv7iGpuUsHuzhf6yTR8pVusiwg5H-_Jct7kbmoKZaD431yZ70x0bqXy3mW6y44XtAQ816j7doZ0bxBy_vPaJz1TyeWqPO8ankai3bBdqNG6byNns4Uq9LynR_rjlNuFK_soZAGgPfq-ofW4ZIWF2WHTufZfFncyJq88hro3-rrkGauot0aN2AZL0DmfYwrejnZBDAnxsLzP4CgsBF1gADSNymclZ1mttSfw5koz0E_b9InKOeD1w0aRwg6T9KtVFwLzPt_Ue-kFb8JrZStK3TPKrwUzlxha9g9FFWex8pBoMbgWFW831neoNzfAXIAEqCWV1LXdlc3QtMjDCBA.m3u8
+
+#EXTINF:-1, HBO
+https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/track_3_6000/playlist.m3u8
+
+#EXTINF:-1, HBO 2 
+https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/track_3_6000/playlist.m3u8
+
+#EXTINF:-1, STAR CHANNEL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=g5H522cxFgur7cRfGp2CVA&expires=1661476108&ip=45.185.206.14
+
+#EXTINF:-1, STAR ACTION MEXICO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/37_.m3u8?token=_eCiSvIcN0x5bl-CebvQzg&expires=1661476193&ip=45.185.206.14
